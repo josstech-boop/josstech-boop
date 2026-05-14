@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Joselyn 👩‍💻
 
-<!--
-**josstech-boop/josstech-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Estudiante de Desarrollo de Software Junior apasionada por la programación, el aprendizaje constante y la creación de proyectos web modernos y creativos. Actualmente fortaleciendo mis habilidades en frontend, backend y bases de datos mientras exploro nuevas tecnologías y herramientas de desarrollo. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Diseño Responsive
+- Flexbox
+
+## ⚙️ Backend
+- Node.js
+
+## 💻 Lenguajes de Programación
+- JavaScript
+- C++
+
+## 🗄️ Bases de Datos
+- Microsoft SQL Server
+- PostgreSQL
+
+## 🔧 Control de Versiones y Herramientas
+- Git
+- GitHub
+- Trello
+
+## 📚 Actualmente aprendiendo
+- Desarrollo Frontend
+- Desarrollo Backend
+- Control de versiones con Git
+- Trabajo colaborativo
+- Buenas prácticas de programación
+
+## ✨ Sobre mí
+- 👥 Me gusta trabajar en equipo
+- 🧠 Siempre buscando mejorar mis habilidades
+- 🚀 Motivada por crear proyectos útiles y creativos
+- 🌱 Aprendizaje constante y autodidacta
+
+## 📫 Contacto
+- GitHub: josstech-boop
+- Correo: joselynguitz@gmail.com
+
+---
+
+⭐ “Cada proyecto es una oportunidad para aprender algo nuevo.”
