@@ -23,12 +23,14 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive_Design-00599C?style=for-the-badge&logo=cssmodules&logoColor=white" />
 
-  <h4>⚙️ Backend & Lenguajes</h4>
+<h4>⚙️ Backend & Servidores</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<h4>💻 Lógica & Algoritmos</h4>
-  <img src="https://img.shields.io/badge/C++-Fundamentos%20Lógicos-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-(Backend)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <h4>💻 Lenguajes & Lógica</h4>
+  <img src="https://img.shields.io/badge/JavaScript-(Algoritmos_%26_Web)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-Fundamentos_%26_Lógica-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
   <h4>🗄️ Bases de Datos</h4>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
