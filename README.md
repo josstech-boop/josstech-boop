@@ -26,7 +26,8 @@
   <h4>⚙️ Backend & Lenguajes</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<h4>💻 Lógica & Algoritmos</h4>
+  <img src="https://img.shields.io/badge/C++-Fundamentos%20Lógicos-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
   <h4>🗄️ Bases de Datos</h4>
@@ -61,14 +62,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josstech-boop&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josstech-boop&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Langs" />
-</div>
-
----
 
 ### 📫 ¿Cómo contactarme?
 
